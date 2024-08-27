@@ -1,0 +1,19 @@
+node_modules/
+
+# Ignore environment variable files
+.env
+
+# Ignore log files
+*.log
+
+# Ignore build outputs (for example, for Next.js or React projects)
+.next/
+dist/
+build/
+
+# Ignore OS-specific files
+.DS_Store
+Thumbs.db
+
+# Ignore SQLite database files
+*.sqlite
